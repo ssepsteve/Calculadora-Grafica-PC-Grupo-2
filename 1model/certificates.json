@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "calc-graficadora-v-experiment",
+  "private_key_id": "a94cfa59c16caa19701f4de628bf6122e16138d0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCcM4hYoOIEk04e\ndqccnJm71I5QPcb+l5yDA1HJ+sLIzaUxdvHqOaS+rqasz7rdW8RLa3hNBV1YoIQ2\n0ZdZa0DgucSLtJDdcfZP9NSmTAq++XIsiNYYHa4W7YT6QVC3fOLwnt4T2onK3kfA\n2s4BvvU/5ULN70+1zrJMVq7rkdg2cLnFQk7vCswQoc4So8mwZrl3qnV9pLmqn64R\nUHXOmgW3rrQRn/0z3bipgHJXxysbkFfiusnsG/y6jyjHRXDxaJ4xZodcZ504VSb4\n3oIWS0EOwD2g6bewea5uTvrJ8Tn9ljQfuUU+XcKw74Ee8HpQILWWrpRurYx95Vmg\nFZlxH1oVAgMBAAECggEAI+yEKKIDqTq5pi7yuxVXFAhMHK9Ak3AJ+mWqi1HlN2p4\nWhp5g71zIrmnMqpp1xwSVqgmWExqDgaIsdTdQp70olqHFfxWrt9VX0k3GPH3LLnQ\n5OYpmw1EaxiAU0/vQOvzg5R+DcHem+4oQXXxGByzadkP1q35vp4FiqILA7mcqNRD\nIbC/xJln50MWeJg+BRfn5HDcc0xoe61GkEnsM1H51c9nHRvVvAAvO6mqRxhW8HD7\nZWI64dBDtsvjql9znFda2anvsZhFWRtsaKwy+TlJg+Q3sXKxl9gipJy7W0FEZLKr\ngqmJwxt0AK0zo2UG5SijdMBFxdhFeyo9ya/hKJUOJwKBgQDJU++KxnZpA3NvGXNd\nBHDvm1E6bvzjP/BggWm4Vd/9tttWURjjQzSZeEaECz1VOdqROB1zE6WZ4fIBsOiB\nNCjfyMvY39b6cE3kaQbo2aNcJYH4Dtqwny3iPBz0Gx5DRd9t3NkR9cDCqnsjR+Ve\n45UBGyLwpTQV0gWaVjFvnB9FFwKBgQDGnnQOhQG5nnejc7zcCKvyxUvSvmfpTVkX\n+7G0upkuMlk/mINRAcHJuFLFlSDlTITWduLNOAPiVv6NJtYJajqeo35NgztmVdhO\nThn/TpqmkPHqifV/xI5POCi8b2BICCkLCwnFd6gqZBqht5xSADNXP2YyZ4yVKOb1\nPclzBOstswKBgGK+DxuCUSsaLTCNS/6QIg/ynnlJXDDc+Dls33wwaiaW26bPKaS1\nHoQy8Grs1E0Ljf5xhkgdl7gMkFRx/ub3vSBc7FXXGypDkIB5XpEvxSZ5ovAV4P6F\nY8y07QJwlnwqNfY9Ph3H6Z3QXYqlRYMvnbIoLA/ZBt2431Sd96sk6FVLAoGAVnFi\nG2uh65JfiYD2wmD3zSo3LNp3yR9D1l9R4VGRF30MQNR02o3ENLIHPD0CWympatnF\nLgHiFuE72lz7rI9SQfbwInYqJQjZooL1Z5tjTXkqAKTYdyopsarEd/aVVeRPUKIW\nN54zT3fP63BJFZtGvQM3zFoq4kQx+KxSf7+1R2cCgYBFaQhtyyiclm8CN04Wm6tr\n73NzJm7GTYWY0Zk1HapUJMFrEwZvZgJCg7sczTYMZlxpKlulIE3Bs4wd0gMo2u+Q\nNSPh+pjEeaSF0Sph0LOVPaMIPbMFXYMNCpwYPvsbyvhHOaMsIw6TcQanOonUja67\nm0i8Kn70R7jGPvWBcgzwaA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-njwzn@calc-graficadora-v-experiment.iam.gserviceaccount.com",
+  "client_id": "102406677979138612556",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-njwzn%40calc-graficadora-v-experiment.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
